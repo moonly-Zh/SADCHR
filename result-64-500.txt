@@ -1,0 +1,1004 @@
+User config:
+...loading and splitting data finish
+...epoch:   1, loss: 85316792.000, lr: 0.031623
+...epoch:   1, valid MAP: MAP(i->t): 0.5414, MAP(t->i): 0.5476
+...epoch:   2, loss: 72563008.000, lr: 0.031560
+...epoch:   2, valid MAP: MAP(i->t): 0.5399, MAP(t->i): 0.5435
+...epoch:   3, loss: 70868232.000, lr: 0.031496
+...epoch:   3, valid MAP: MAP(i->t): 0.5434, MAP(t->i): 0.5446
+...epoch:   4, loss: 70612960.000, lr: 0.031433
+...epoch:   4, valid MAP: MAP(i->t): 0.5424, MAP(t->i): 0.5495
+...epoch:   5, loss: 70575832.000, lr: 0.031370
+...epoch:   5, valid MAP: MAP(i->t): 0.5468, MAP(t->i): 0.5507
+...epoch:   6, loss: 70564976.000, lr: 0.031307
+...epoch:   6, valid MAP: MAP(i->t): 0.5501, MAP(t->i): 0.5484
+...epoch:   7, loss: 70557248.000, lr: 0.031243
+...epoch:   7, valid MAP: MAP(i->t): 0.5529, MAP(t->i): 0.5572
+...epoch:   8, loss: 70546840.000, lr: 0.031180
+...epoch:   8, valid MAP: MAP(i->t): 0.5565, MAP(t->i): 0.5564
+...epoch:   9, loss: 70528840.000, lr: 0.031117
+...epoch:   9, valid MAP: MAP(i->t): 0.5609, MAP(t->i): 0.5636
+...epoch:  10, loss: 70499704.000, lr: 0.031054
+...epoch:  10, valid MAP: MAP(i->t): 0.5674, MAP(t->i): 0.5682
+...epoch:  11, loss: 70476624.000, lr: 0.030990
+...epoch:  11, valid MAP: MAP(i->t): 0.5752, MAP(t->i): 0.5681
+...epoch:  12, loss: 70442016.000, lr: 0.030927
+...epoch:  12, valid MAP: MAP(i->t): 0.5801, MAP(t->i): 0.5747
+...epoch:  13, loss: 70400440.000, lr: 0.030864
+...epoch:  13, valid MAP: MAP(i->t): 0.5896, MAP(t->i): 0.5744
+...epoch:  14, loss: 70419528.000, lr: 0.030801
+...epoch:  14, valid MAP: MAP(i->t): 0.5918, MAP(t->i): 0.5790
+...epoch:  15, loss: 70343208.000, lr: 0.030737
+...epoch:  15, valid MAP: MAP(i->t): 0.5967, MAP(t->i): 0.5851
+...epoch:  16, loss: 70276456.000, lr: 0.030674
+...epoch:  16, valid MAP: MAP(i->t): 0.5971, MAP(t->i): 0.5857
+...epoch:  17, loss: 70219232.000, lr: 0.030611
+...epoch:  17, valid MAP: MAP(i->t): 0.6031, MAP(t->i): 0.5878
+...epoch:  18, loss: 70201000.000, lr: 0.030548
+...epoch:  18, valid MAP: MAP(i->t): 0.5982, MAP(t->i): 0.5937
+...epoch:  19, loss: 70119400.000, lr: 0.030484
+...epoch:  19, valid MAP: MAP(i->t): 0.6060, MAP(t->i): 0.5956
+...epoch:  20, loss: 70044672.000, lr: 0.030421
+...epoch:  20, valid MAP: MAP(i->t): 0.6079, MAP(t->i): 0.5950
+...epoch:  21, loss: 69927936.000, lr: 0.030358
+...epoch:  21, valid MAP: MAP(i->t): 0.6162, MAP(t->i): 0.5990
+...epoch:  22, loss: 69747928.000, lr: 0.030295
+...epoch:  22, valid MAP: MAP(i->t): 0.6165, MAP(t->i): 0.5966
+...epoch:  23, loss: 69629424.000, lr: 0.030231
+...epoch:  23, valid MAP: MAP(i->t): 0.6160, MAP(t->i): 0.6065
+...epoch:  24, loss: 69504888.000, lr: 0.030168
+...epoch:  24, valid MAP: MAP(i->t): 0.6229, MAP(t->i): 0.6026
+...epoch:  25, loss: 69291064.000, lr: 0.030105
+...epoch:  25, valid MAP: MAP(i->t): 0.6247, MAP(t->i): 0.6124
+...epoch:  26, loss: 69032936.000, lr: 0.030042
+...epoch:  26, valid MAP: MAP(i->t): 0.6247, MAP(t->i): 0.6157
+...epoch:  27, loss: 68836952.000, lr: 0.029978
+...epoch:  27, valid MAP: MAP(i->t): 0.6349, MAP(t->i): 0.6224
+...epoch:  28, loss: 68544528.000, lr: 0.029915
+...epoch:  28, valid MAP: MAP(i->t): 0.6392, MAP(t->i): 0.6225
+...epoch:  29, loss: 68316096.000, lr: 0.029852
+...epoch:  29, valid MAP: MAP(i->t): 0.6398, MAP(t->i): 0.6304
+...epoch:  30, loss: 68061112.000, lr: 0.029789
+...epoch:  30, valid MAP: MAP(i->t): 0.6476, MAP(t->i): 0.6281
+...epoch:  31, loss: 67803296.000, lr: 0.029725
+...epoch:  31, valid MAP: MAP(i->t): 0.6501, MAP(t->i): 0.6366
+...epoch:  32, loss: 67552440.000, lr: 0.029662
+...epoch:  32, valid MAP: MAP(i->t): 0.6500, MAP(t->i): 0.6397
+...epoch:  33, loss: 67278528.000, lr: 0.029599
+...epoch:  33, valid MAP: MAP(i->t): 0.6511, MAP(t->i): 0.6447
+...epoch:  34, loss: 67039368.000, lr: 0.029536
+...epoch:  34, valid MAP: MAP(i->t): 0.6588, MAP(t->i): 0.6503
+...epoch:  35, loss: 66850440.000, lr: 0.029472
+...epoch:  35, valid MAP: MAP(i->t): 0.6614, MAP(t->i): 0.6516
+...epoch:  36, loss: 66672984.000, lr: 0.029409
+...epoch:  36, valid MAP: MAP(i->t): 0.6617, MAP(t->i): 0.6604
+...epoch:  37, loss: 66454984.000, lr: 0.029346
+...epoch:  37, valid MAP: MAP(i->t): 0.6649, MAP(t->i): 0.6568
+...epoch:  38, loss: 66266472.000, lr: 0.029283
+...epoch:  38, valid MAP: MAP(i->t): 0.6643, MAP(t->i): 0.6649
+...epoch:  39, loss: 66007264.000, lr: 0.029220
+...epoch:  39, valid MAP: MAP(i->t): 0.6680, MAP(t->i): 0.6674
+...epoch:  40, loss: 66051772.000, lr: 0.029156
+...epoch:  40, valid MAP: MAP(i->t): 0.6686, MAP(t->i): 0.6698
+...epoch:  41, loss: 65837360.000, lr: 0.029093
+...epoch:  41, valid MAP: MAP(i->t): 0.6709, MAP(t->i): 0.6730
+...epoch:  42, loss: 65605512.000, lr: 0.029030
+...epoch:  42, valid MAP: MAP(i->t): 0.6708, MAP(t->i): 0.6771
+...epoch:  43, loss: 65374268.000, lr: 0.028967
+...epoch:  43, valid MAP: MAP(i->t): 0.6749, MAP(t->i): 0.6787
+...epoch:  44, loss: 65197416.000, lr: 0.028903
+...epoch:  44, valid MAP: MAP(i->t): 0.6759, MAP(t->i): 0.6815
+...epoch:  45, loss: 65018552.000, lr: 0.028840
+...epoch:  45, valid MAP: MAP(i->t): 0.6748, MAP(t->i): 0.6862
+...epoch:  46, loss: 64858456.000, lr: 0.028777
+...epoch:  46, valid MAP: MAP(i->t): 0.6779, MAP(t->i): 0.6864
+...epoch:  47, loss: 64593168.000, lr: 0.028714
+...epoch:  47, valid MAP: MAP(i->t): 0.6754, MAP(t->i): 0.6923
+...epoch:  48, loss: 64395616.000, lr: 0.028650
+...epoch:  48, valid MAP: MAP(i->t): 0.6834, MAP(t->i): 0.6961
+...epoch:  49, loss: 64203028.000, lr: 0.028587
+...epoch:  49, valid MAP: MAP(i->t): 0.6823, MAP(t->i): 0.7004
+...epoch:  50, loss: 64069124.000, lr: 0.028524
+...epoch:  50, valid MAP: MAP(i->t): 0.6818, MAP(t->i): 0.7021
+...epoch:  51, loss: 63812780.000, lr: 0.028461
+...epoch:  51, valid MAP: MAP(i->t): 0.6876, MAP(t->i): 0.7046
+...epoch:  52, loss: 63629136.000, lr: 0.028397
+...epoch:  52, valid MAP: MAP(i->t): 0.6878, MAP(t->i): 0.7068
+...epoch:  53, loss: 63332840.000, lr: 0.028334
+...epoch:  53, valid MAP: MAP(i->t): 0.6895, MAP(t->i): 0.7100
+...epoch:  54, loss: 63119940.000, lr: 0.028271
+...epoch:  54, valid MAP: MAP(i->t): 0.6910, MAP(t->i): 0.7115
+...epoch:  55, loss: 62943712.000, lr: 0.028208
+...epoch:  55, valid MAP: MAP(i->t): 0.6897, MAP(t->i): 0.7120
+...epoch:  56, loss: 62752884.000, lr: 0.028144
+...epoch:  56, valid MAP: MAP(i->t): 0.6924, MAP(t->i): 0.7150
+...epoch:  57, loss: 62544516.000, lr: 0.028081
+...epoch:  57, valid MAP: MAP(i->t): 0.6948, MAP(t->i): 0.7172
+...epoch:  58, loss: 62379084.000, lr: 0.028018
+...epoch:  58, valid MAP: MAP(i->t): 0.6950, MAP(t->i): 0.7180
+...epoch:  59, loss: 62103388.000, lr: 0.027955
+...epoch:  59, valid MAP: MAP(i->t): 0.6938, MAP(t->i): 0.7198
+...epoch:  60, loss: 61869532.000, lr: 0.027891
+...epoch:  60, valid MAP: MAP(i->t): 0.7005, MAP(t->i): 0.7210
+...epoch:  61, loss: 61630296.000, lr: 0.027828
+...epoch:  61, valid MAP: MAP(i->t): 0.6959, MAP(t->i): 0.7217
+...epoch:  62, loss: 61385196.000, lr: 0.027765
+...epoch:  62, valid MAP: MAP(i->t): 0.7021, MAP(t->i): 0.7233
+...epoch:  63, loss: 61317500.000, lr: 0.027702
+...epoch:  63, valid MAP: MAP(i->t): 0.7010, MAP(t->i): 0.7247
+...epoch:  64, loss: 61150216.000, lr: 0.027638
+...epoch:  64, valid MAP: MAP(i->t): 0.6996, MAP(t->i): 0.7232
+...epoch:  65, loss: 60888852.000, lr: 0.027575
+...epoch:  65, valid MAP: MAP(i->t): 0.7044, MAP(t->i): 0.7262
+...epoch:  66, loss: 60563928.000, lr: 0.027512
+...epoch:  66, valid MAP: MAP(i->t): 0.7030, MAP(t->i): 0.7287
+...epoch:  67, loss: 60457496.000, lr: 0.027449
+...epoch:  67, valid MAP: MAP(i->t): 0.7048, MAP(t->i): 0.7278
+...epoch:  68, loss: 60206464.000, lr: 0.027385
+...epoch:  68, valid MAP: MAP(i->t): 0.7048, MAP(t->i): 0.7316
+...epoch:  69, loss: 59997252.000, lr: 0.027322
+...epoch:  69, valid MAP: MAP(i->t): 0.7042, MAP(t->i): 0.7327
+...epoch:  70, loss: 59810892.000, lr: 0.027259
+...epoch:  70, valid MAP: MAP(i->t): 0.7069, MAP(t->i): 0.7287
+...epoch:  71, loss: 59526352.000, lr: 0.027196
+...epoch:  71, valid MAP: MAP(i->t): 0.7050, MAP(t->i): 0.7316
+...epoch:  72, loss: 59318232.000, lr: 0.027132
+...epoch:  72, valid MAP: MAP(i->t): 0.7035, MAP(t->i): 0.7311
+...epoch:  73, loss: 59144468.000, lr: 0.027069
+...epoch:  73, valid MAP: MAP(i->t): 0.7047, MAP(t->i): 0.7355
+...epoch:  74, loss: 59012500.000, lr: 0.027006
+...epoch:  74, valid MAP: MAP(i->t): 0.7092, MAP(t->i): 0.7341
+...epoch:  75, loss: 58822296.000, lr: 0.026943
+...epoch:  75, valid MAP: MAP(i->t): 0.7010, MAP(t->i): 0.7353
+...epoch:  76, loss: 58762192.000, lr: 0.026880
+...epoch:  76, valid MAP: MAP(i->t): 0.7057, MAP(t->i): 0.7365
+...epoch:  77, loss: 58443596.000, lr: 0.026816
+...epoch:  77, valid MAP: MAP(i->t): 0.7118, MAP(t->i): 0.7361
+...epoch:  78, loss: 58453236.000, lr: 0.026753
+...epoch:  78, valid MAP: MAP(i->t): 0.7122, MAP(t->i): 0.7374
+...epoch:  79, loss: 58102404.000, lr: 0.026690
+...epoch:  79, valid MAP: MAP(i->t): 0.7111, MAP(t->i): 0.7368
+...epoch:  80, loss: 57871528.000, lr: 0.026627
+...epoch:  80, valid MAP: MAP(i->t): 0.7111, MAP(t->i): 0.7398
+...epoch:  81, loss: 57573460.000, lr: 0.026563
+...epoch:  81, valid MAP: MAP(i->t): 0.7077, MAP(t->i): 0.7392
+...epoch:  82, loss: 57386292.000, lr: 0.026500
+...epoch:  82, valid MAP: MAP(i->t): 0.7078, MAP(t->i): 0.7381
+...epoch:  83, loss: 57273940.000, lr: 0.026437
+...epoch:  83, valid MAP: MAP(i->t): 0.7125, MAP(t->i): 0.7420
+...epoch:  84, loss: 57127140.000, lr: 0.026374
+...epoch:  84, valid MAP: MAP(i->t): 0.7078, MAP(t->i): 0.7380
+...epoch:  85, loss: 56903644.000, lr: 0.026310
+...epoch:  85, valid MAP: MAP(i->t): 0.7118, MAP(t->i): 0.7426
+...epoch:  86, loss: 56642688.000, lr: 0.026247
+...epoch:  86, valid MAP: MAP(i->t): 0.7116, MAP(t->i): 0.7441
+...epoch:  87, loss: 56600440.000, lr: 0.026184
+...epoch:  87, valid MAP: MAP(i->t): 0.7111, MAP(t->i): 0.7428
+...epoch:  88, loss: 56398392.000, lr: 0.026121
+...epoch:  88, valid MAP: MAP(i->t): 0.7138, MAP(t->i): 0.7438
+...epoch:  89, loss: 56214668.000, lr: 0.026057
+...epoch:  89, valid MAP: MAP(i->t): 0.7155, MAP(t->i): 0.7435
+...epoch:  90, loss: 55976312.000, lr: 0.025994
+...epoch:  90, valid MAP: MAP(i->t): 0.7148, MAP(t->i): 0.7449
+...epoch:  91, loss: 55888616.000, lr: 0.025931
+...epoch:  91, valid MAP: MAP(i->t): 0.7159, MAP(t->i): 0.7447
+...epoch:  92, loss: 55690544.000, lr: 0.025868
+...epoch:  92, valid MAP: MAP(i->t): 0.7186, MAP(t->i): 0.7434
+...epoch:  93, loss: 55498836.000, lr: 0.025804
+...epoch:  93, valid MAP: MAP(i->t): 0.7146, MAP(t->i): 0.7458
+...epoch:  94, loss: 55320132.000, lr: 0.025741
+...epoch:  94, valid MAP: MAP(i->t): 0.7153, MAP(t->i): 0.7472
+...epoch:  95, loss: 55200888.000, lr: 0.025678
+...epoch:  95, valid MAP: MAP(i->t): 0.7174, MAP(t->i): 0.7478
+...epoch:  96, loss: 54977484.000, lr: 0.025615
+...epoch:  96, valid MAP: MAP(i->t): 0.7163, MAP(t->i): 0.7489
+...epoch:  97, loss: 54802808.000, lr: 0.025551
+...epoch:  97, valid MAP: MAP(i->t): 0.7171, MAP(t->i): 0.7491
+...epoch:  98, loss: 54688764.000, lr: 0.025488
+...epoch:  98, valid MAP: MAP(i->t): 0.7197, MAP(t->i): 0.7492
+...epoch:  99, loss: 54549420.000, lr: 0.025425
+...epoch:  99, valid MAP: MAP(i->t): 0.7148, MAP(t->i): 0.7488
+...epoch: 100, loss: 54397392.000, lr: 0.025362
+...epoch: 100, valid MAP: MAP(i->t): 0.7180, MAP(t->i): 0.7494
+...epoch: 101, loss: 54188224.000, lr: 0.025298
+...epoch: 101, valid MAP: MAP(i->t): 0.7176, MAP(t->i): 0.7502
+...epoch: 102, loss: 54289752.000, lr: 0.025235
+...epoch: 102, valid MAP: MAP(i->t): 0.7129, MAP(t->i): 0.7475
+...epoch: 103, loss: 54033464.000, lr: 0.025172
+...epoch: 103, valid MAP: MAP(i->t): 0.7186, MAP(t->i): 0.7516
+...epoch: 104, loss: 53814308.000, lr: 0.025109
+...epoch: 104, valid MAP: MAP(i->t): 0.7176, MAP(t->i): 0.7484
+...epoch: 105, loss: 53646564.000, lr: 0.025045
+...epoch: 105, valid MAP: MAP(i->t): 0.7209, MAP(t->i): 0.7524
+...epoch: 106, loss: 53552896.000, lr: 0.024982
+...epoch: 106, valid MAP: MAP(i->t): 0.7165, MAP(t->i): 0.7519
+...epoch: 107, loss: 53362516.000, lr: 0.024919
+...epoch: 107, valid MAP: MAP(i->t): 0.7194, MAP(t->i): 0.7523
+...epoch: 108, loss: 53225120.000, lr: 0.024856
+...epoch: 108, valid MAP: MAP(i->t): 0.7195, MAP(t->i): 0.7526
+...epoch: 109, loss: 53069392.000, lr: 0.024792
+...epoch: 109, valid MAP: MAP(i->t): 0.7201, MAP(t->i): 0.7529
+...epoch: 110, loss: 52951272.000, lr: 0.024729
+...epoch: 110, valid MAP: MAP(i->t): 0.7207, MAP(t->i): 0.7533
+...epoch: 111, loss: 52784376.000, lr: 0.024666
+...epoch: 111, valid MAP: MAP(i->t): 0.7209, MAP(t->i): 0.7541
+...epoch: 112, loss: 52606052.000, lr: 0.024603
+...epoch: 112, valid MAP: MAP(i->t): 0.7237, MAP(t->i): 0.7537
+...epoch: 113, loss: 52449904.000, lr: 0.024539
+...epoch: 113, valid MAP: MAP(i->t): 0.7216, MAP(t->i): 0.7544
+...epoch: 114, loss: 52544928.000, lr: 0.024476
+...epoch: 114, valid MAP: MAP(i->t): 0.7239, MAP(t->i): 0.7546
+...epoch: 115, loss: 52299544.000, lr: 0.024413
+...epoch: 115, valid MAP: MAP(i->t): 0.7221, MAP(t->i): 0.7554
+...epoch: 116, loss: 52124988.000, lr: 0.024350
+...epoch: 116, valid MAP: MAP(i->t): 0.7218, MAP(t->i): 0.7560
+...epoch: 117, loss: 51971964.000, lr: 0.024287
+...epoch: 117, valid MAP: MAP(i->t): 0.7237, MAP(t->i): 0.7556
+...epoch: 118, loss: 51895736.000, lr: 0.024223
+...epoch: 118, valid MAP: MAP(i->t): 0.7251, MAP(t->i): 0.7564
+...epoch: 119, loss: 51768528.000, lr: 0.024160
+...epoch: 119, valid MAP: MAP(i->t): 0.7192, MAP(t->i): 0.7582
+...epoch: 120, loss: 51795524.000, lr: 0.024097
+...epoch: 120, valid MAP: MAP(i->t): 0.7247, MAP(t->i): 0.7551
+...epoch: 121, loss: 51598756.000, lr: 0.024034
+...epoch: 121, valid MAP: MAP(i->t): 0.7226, MAP(t->i): 0.7581
+...epoch: 122, loss: 51494916.000, lr: 0.023970
+...epoch: 122, valid MAP: MAP(i->t): 0.7250, MAP(t->i): 0.7574
+...epoch: 123, loss: 51236732.000, lr: 0.023907
+...epoch: 123, valid MAP: MAP(i->t): 0.7267, MAP(t->i): 0.7562
+...epoch: 124, loss: 51023000.000, lr: 0.023844
+...epoch: 124, valid MAP: MAP(i->t): 0.7267, MAP(t->i): 0.7574
+...epoch: 125, loss: 50967944.000, lr: 0.023781
+...epoch: 125, valid MAP: MAP(i->t): 0.7274, MAP(t->i): 0.7570
+...epoch: 126, loss: 50795784.000, lr: 0.023717
+...epoch: 126, valid MAP: MAP(i->t): 0.7276, MAP(t->i): 0.7573
+...epoch: 127, loss: 50690976.000, lr: 0.023654
+...epoch: 127, valid MAP: MAP(i->t): 0.7280, MAP(t->i): 0.7562
+...epoch: 128, loss: 50659796.000, lr: 0.023591
+...epoch: 128, valid MAP: MAP(i->t): 0.7227, MAP(t->i): 0.7584
+...epoch: 129, loss: 50562080.000, lr: 0.023528
+...epoch: 129, valid MAP: MAP(i->t): 0.7251, MAP(t->i): 0.7586
+...epoch: 130, loss: 50429496.000, lr: 0.023464
+...epoch: 130, valid MAP: MAP(i->t): 0.7272, MAP(t->i): 0.7586
+...epoch: 131, loss: 50202700.000, lr: 0.023401
+...epoch: 131, valid MAP: MAP(i->t): 0.7256, MAP(t->i): 0.7594
+...epoch: 132, loss: 50219628.000, lr: 0.023338
+...epoch: 132, valid MAP: MAP(i->t): 0.7280, MAP(t->i): 0.7576
+...epoch: 133, loss: 50022504.000, lr: 0.023275
+...epoch: 133, valid MAP: MAP(i->t): 0.7274, MAP(t->i): 0.7605
+...epoch: 134, loss: 49924712.000, lr: 0.023211
+...epoch: 134, valid MAP: MAP(i->t): 0.7272, MAP(t->i): 0.7564
+...epoch: 135, loss: 49915956.000, lr: 0.023148
+...epoch: 135, valid MAP: MAP(i->t): 0.7305, MAP(t->i): 0.7587
+...epoch: 136, loss: 49647488.000, lr: 0.023085
+...epoch: 136, valid MAP: MAP(i->t): 0.7303, MAP(t->i): 0.7593
+...epoch: 137, loss: 49487420.000, lr: 0.023022
+...epoch: 137, valid MAP: MAP(i->t): 0.7315, MAP(t->i): 0.7579
+...epoch: 138, loss: 49351236.000, lr: 0.022958
+...epoch: 138, valid MAP: MAP(i->t): 0.7298, MAP(t->i): 0.7598
+...epoch: 139, loss: 49226864.000, lr: 0.022895
+...epoch: 139, valid MAP: MAP(i->t): 0.7280, MAP(t->i): 0.7617
+...epoch: 140, loss: 49153872.000, lr: 0.022832
+...epoch: 140, valid MAP: MAP(i->t): 0.7284, MAP(t->i): 0.7607
+...epoch: 141, loss: 49013552.000, lr: 0.022769
+...epoch: 141, valid MAP: MAP(i->t): 0.7298, MAP(t->i): 0.7624
+...epoch: 142, loss: 48941736.000, lr: 0.022705
+...epoch: 142, valid MAP: MAP(i->t): 0.7293, MAP(t->i): 0.7621
+...epoch: 143, loss: 48894536.000, lr: 0.022642
+...epoch: 143, valid MAP: MAP(i->t): 0.7310, MAP(t->i): 0.7617
+...epoch: 144, loss: 48697820.000, lr: 0.022579
+...epoch: 144, valid MAP: MAP(i->t): 0.7332, MAP(t->i): 0.7601
+...epoch: 145, loss: 48612976.000, lr: 0.022516
+...epoch: 145, valid MAP: MAP(i->t): 0.7334, MAP(t->i): 0.7598
+...epoch: 146, loss: 48528764.000, lr: 0.022452
+...epoch: 146, valid MAP: MAP(i->t): 0.7300, MAP(t->i): 0.7610
+...epoch: 147, loss: 48388128.000, lr: 0.022389
+...epoch: 147, valid MAP: MAP(i->t): 0.7318, MAP(t->i): 0.7613
+...epoch: 148, loss: 48358320.000, lr: 0.022326
+...epoch: 148, valid MAP: MAP(i->t): 0.7287, MAP(t->i): 0.7640
+...epoch: 149, loss: 48209168.000, lr: 0.022263
+...epoch: 149, valid MAP: MAP(i->t): 0.7332, MAP(t->i): 0.7590
+...epoch: 150, loss: 48019720.000, lr: 0.022199
+...epoch: 150, valid MAP: MAP(i->t): 0.7326, MAP(t->i): 0.7631
+...epoch: 151, loss: 47868912.000, lr: 0.022136
+...epoch: 151, valid MAP: MAP(i->t): 0.7314, MAP(t->i): 0.7627
+...epoch: 152, loss: 47774920.000, lr: 0.022073
+...epoch: 152, valid MAP: MAP(i->t): 0.7333, MAP(t->i): 0.7622
+...epoch: 153, loss: 47663352.000, lr: 0.022010
+...epoch: 153, valid MAP: MAP(i->t): 0.7306, MAP(t->i): 0.7637
+...epoch: 154, loss: 47555524.000, lr: 0.021947
+...epoch: 154, valid MAP: MAP(i->t): 0.7320, MAP(t->i): 0.7628
+...epoch: 155, loss: 47444872.000, lr: 0.021883
+...epoch: 155, valid MAP: MAP(i->t): 0.7341, MAP(t->i): 0.7622
+...epoch: 156, loss: 47403712.000, lr: 0.021820
+...epoch: 156, valid MAP: MAP(i->t): 0.7352, MAP(t->i): 0.7625
+...epoch: 157, loss: 47323824.000, lr: 0.021757
+...epoch: 157, valid MAP: MAP(i->t): 0.7354, MAP(t->i): 0.7610
+...epoch: 158, loss: 47216156.000, lr: 0.021694
+...epoch: 158, valid MAP: MAP(i->t): 0.7339, MAP(t->i): 0.7629
+...epoch: 159, loss: 47148460.000, lr: 0.021630
+...epoch: 159, valid MAP: MAP(i->t): 0.7347, MAP(t->i): 0.7636
+...epoch: 160, loss: 47083432.000, lr: 0.021567
+...epoch: 160, valid MAP: MAP(i->t): 0.7328, MAP(t->i): 0.7658
+...epoch: 161, loss: 47059660.000, lr: 0.021504
+...epoch: 161, valid MAP: MAP(i->t): 0.7361, MAP(t->i): 0.7637
+...epoch: 162, loss: 46978844.000, lr: 0.021441
+...epoch: 162, valid MAP: MAP(i->t): 0.7352, MAP(t->i): 0.7645
+...epoch: 163, loss: 46839696.000, lr: 0.021377
+...epoch: 163, valid MAP: MAP(i->t): 0.7346, MAP(t->i): 0.7638
+...epoch: 164, loss: 46687904.000, lr: 0.021314
+...epoch: 164, valid MAP: MAP(i->t): 0.7363, MAP(t->i): 0.7635
+...epoch: 165, loss: 46576084.000, lr: 0.021251
+...epoch: 165, valid MAP: MAP(i->t): 0.7329, MAP(t->i): 0.7659
+...epoch: 166, loss: 46504076.000, lr: 0.021188
+...epoch: 166, valid MAP: MAP(i->t): 0.7370, MAP(t->i): 0.7631
+...epoch: 167, loss: 46411944.000, lr: 0.021124
+...epoch: 167, valid MAP: MAP(i->t): 0.7366, MAP(t->i): 0.7634
+...epoch: 168, loss: 46300816.000, lr: 0.021061
+...epoch: 168, valid MAP: MAP(i->t): 0.7351, MAP(t->i): 0.7658
+...epoch: 169, loss: 46241008.000, lr: 0.020998
+...epoch: 169, valid MAP: MAP(i->t): 0.7352, MAP(t->i): 0.7641
+...epoch: 170, loss: 46110700.000, lr: 0.020935
+...epoch: 170, valid MAP: MAP(i->t): 0.7338, MAP(t->i): 0.7682
+...epoch: 171, loss: 46003560.000, lr: 0.020871
+...epoch: 171, valid MAP: MAP(i->t): 0.7355, MAP(t->i): 0.7673
+...epoch: 172, loss: 45927664.000, lr: 0.020808
+...epoch: 172, valid MAP: MAP(i->t): 0.7374, MAP(t->i): 0.7660
+...epoch: 173, loss: 45910420.000, lr: 0.020745
+...epoch: 173, valid MAP: MAP(i->t): 0.7375, MAP(t->i): 0.7641
+...epoch: 174, loss: 45787664.000, lr: 0.020682
+...epoch: 174, valid MAP: MAP(i->t): 0.7374, MAP(t->i): 0.7649
+...epoch: 175, loss: 45692720.000, lr: 0.020618
+...epoch: 175, valid MAP: MAP(i->t): 0.7370, MAP(t->i): 0.7658
+...epoch: 176, loss: 45659364.000, lr: 0.020555
+...epoch: 176, valid MAP: MAP(i->t): 0.7397, MAP(t->i): 0.7644
+...epoch: 177, loss: 45602944.000, lr: 0.020492
+...epoch: 177, valid MAP: MAP(i->t): 0.7380, MAP(t->i): 0.7665
+...epoch: 178, loss: 45446660.000, lr: 0.020429
+...epoch: 178, valid MAP: MAP(i->t): 0.7378, MAP(t->i): 0.7660
+...epoch: 179, loss: 45397460.000, lr: 0.020365
+...epoch: 179, valid MAP: MAP(i->t): 0.7397, MAP(t->i): 0.7664
+...epoch: 180, loss: 45323856.000, lr: 0.020302
+...epoch: 180, valid MAP: MAP(i->t): 0.7373, MAP(t->i): 0.7671
+...epoch: 181, loss: 45194288.000, lr: 0.020239
+...epoch: 181, valid MAP: MAP(i->t): 0.7376, MAP(t->i): 0.7658
+...epoch: 182, loss: 45125592.000, lr: 0.020176
+...epoch: 182, valid MAP: MAP(i->t): 0.7404, MAP(t->i): 0.7655
+...epoch: 183, loss: 45012976.000, lr: 0.020112
+...epoch: 183, valid MAP: MAP(i->t): 0.7380, MAP(t->i): 0.7661
+...epoch: 184, loss: 44955288.000, lr: 0.020049
+...epoch: 184, valid MAP: MAP(i->t): 0.7386, MAP(t->i): 0.7661
+...epoch: 185, loss: 44919800.000, lr: 0.019986
+...epoch: 185, valid MAP: MAP(i->t): 0.7377, MAP(t->i): 0.7686
+...epoch: 186, loss: 44892072.000, lr: 0.019923
+...epoch: 186, valid MAP: MAP(i->t): 0.7380, MAP(t->i): 0.7687
+...epoch: 187, loss: 44847000.000, lr: 0.019859
+...epoch: 187, valid MAP: MAP(i->t): 0.7398, MAP(t->i): 0.7677
+...epoch: 188, loss: 44716024.000, lr: 0.019796
+...epoch: 188, valid MAP: MAP(i->t): 0.7394, MAP(t->i): 0.7690
+...epoch: 189, loss: 44592680.000, lr: 0.019733
+...epoch: 189, valid MAP: MAP(i->t): 0.7394, MAP(t->i): 0.7663
+...epoch: 190, loss: 44487576.000, lr: 0.019670
+...epoch: 190, valid MAP: MAP(i->t): 0.7385, MAP(t->i): 0.7690
+...epoch: 191, loss: 44430332.000, lr: 0.019607
+...epoch: 191, valid MAP: MAP(i->t): 0.7406, MAP(t->i): 0.7641
+...epoch: 192, loss: 44354704.000, lr: 0.019543
+...epoch: 192, valid MAP: MAP(i->t): 0.7417, MAP(t->i): 0.7662
+...epoch: 193, loss: 44387248.000, lr: 0.019480
+...epoch: 193, valid MAP: MAP(i->t): 0.7401, MAP(t->i): 0.7684
+...epoch: 194, loss: 44261752.000, lr: 0.019417
+...epoch: 194, valid MAP: MAP(i->t): 0.7395, MAP(t->i): 0.7687
+...epoch: 195, loss: 44166356.000, lr: 0.019354
+...epoch: 195, valid MAP: MAP(i->t): 0.7414, MAP(t->i): 0.7674
+...epoch: 196, loss: 44101140.000, lr: 0.019290
+...epoch: 196, valid MAP: MAP(i->t): 0.7405, MAP(t->i): 0.7681
+...epoch: 197, loss: 43993952.000, lr: 0.019227
+...epoch: 197, valid MAP: MAP(i->t): 0.7403, MAP(t->i): 0.7688
+...epoch: 198, loss: 43936588.000, lr: 0.019164
+...epoch: 198, valid MAP: MAP(i->t): 0.7381, MAP(t->i): 0.7705
+...epoch: 199, loss: 43841072.000, lr: 0.019101
+...epoch: 199, valid MAP: MAP(i->t): 0.7408, MAP(t->i): 0.7685
+...epoch: 200, loss: 43790616.000, lr: 0.019037
+...epoch: 200, valid MAP: MAP(i->t): 0.7394, MAP(t->i): 0.7694
+...epoch: 201, loss: 43727216.000, lr: 0.018974
+...epoch: 201, valid MAP: MAP(i->t): 0.7407, MAP(t->i): 0.7686
+...epoch: 202, loss: 43707804.000, lr: 0.018911
+...epoch: 202, valid MAP: MAP(i->t): 0.7424, MAP(t->i): 0.7692
+...epoch: 203, loss: 43624888.000, lr: 0.018848
+...epoch: 203, valid MAP: MAP(i->t): 0.7416, MAP(t->i): 0.7695
+...epoch: 204, loss: 43585504.000, lr: 0.018784
+...epoch: 204, valid MAP: MAP(i->t): 0.7384, MAP(t->i): 0.7701
+...epoch: 205, loss: 43541464.000, lr: 0.018721
+...epoch: 205, valid MAP: MAP(i->t): 0.7418, MAP(t->i): 0.7707
+...epoch: 206, loss: 43435556.000, lr: 0.018658
+...epoch: 206, valid MAP: MAP(i->t): 0.7406, MAP(t->i): 0.7688
+...epoch: 207, loss: 43362600.000, lr: 0.018595
+...epoch: 207, valid MAP: MAP(i->t): 0.7412, MAP(t->i): 0.7703
+...epoch: 208, loss: 43300380.000, lr: 0.018531
+...epoch: 208, valid MAP: MAP(i->t): 0.7422, MAP(t->i): 0.7705
+...epoch: 209, loss: 43254952.000, lr: 0.018468
+...epoch: 209, valid MAP: MAP(i->t): 0.7416, MAP(t->i): 0.7706
+...epoch: 210, loss: 43152508.000, lr: 0.018405
+...epoch: 210, valid MAP: MAP(i->t): 0.7404, MAP(t->i): 0.7706
+...epoch: 211, loss: 43089740.000, lr: 0.018342
+...epoch: 211, valid MAP: MAP(i->t): 0.7423, MAP(t->i): 0.7695
+...epoch: 212, loss: 43091376.000, lr: 0.018278
+...epoch: 212, valid MAP: MAP(i->t): 0.7407, MAP(t->i): 0.7717
+...epoch: 213, loss: 43017576.000, lr: 0.018215
+...epoch: 213, valid MAP: MAP(i->t): 0.7413, MAP(t->i): 0.7713
+...epoch: 214, loss: 43005268.000, lr: 0.018152
+...epoch: 214, valid MAP: MAP(i->t): 0.7420, MAP(t->i): 0.7709
+...epoch: 215, loss: 42891268.000, lr: 0.018089
+...epoch: 215, valid MAP: MAP(i->t): 0.7429, MAP(t->i): 0.7695
+...epoch: 216, loss: 42837896.000, lr: 0.018025
+...epoch: 216, valid MAP: MAP(i->t): 0.7435, MAP(t->i): 0.7691
+...epoch: 217, loss: 42736828.000, lr: 0.017962
+...epoch: 217, valid MAP: MAP(i->t): 0.7425, MAP(t->i): 0.7709
+...epoch: 218, loss: 42654796.000, lr: 0.017899
+...epoch: 218, valid MAP: MAP(i->t): 0.7415, MAP(t->i): 0.7710
+...epoch: 219, loss: 42606348.000, lr: 0.017836
+...epoch: 219, valid MAP: MAP(i->t): 0.7431, MAP(t->i): 0.7709
+...epoch: 220, loss: 42552100.000, lr: 0.017772
+...epoch: 220, valid MAP: MAP(i->t): 0.7411, MAP(t->i): 0.7730
+...epoch: 221, loss: 42505748.000, lr: 0.017709
+...epoch: 221, valid MAP: MAP(i->t): 0.7427, MAP(t->i): 0.7697
+...epoch: 222, loss: 42438188.000, lr: 0.017646
+...epoch: 222, valid MAP: MAP(i->t): 0.7420, MAP(t->i): 0.7720
+...epoch: 223, loss: 42370036.000, lr: 0.017583
+...epoch: 223, valid MAP: MAP(i->t): 0.7418, MAP(t->i): 0.7712
+...epoch: 224, loss: 42316384.000, lr: 0.017519
+...epoch: 224, valid MAP: MAP(i->t): 0.7429, MAP(t->i): 0.7705
+...epoch: 225, loss: 42266072.000, lr: 0.017456
+...epoch: 225, valid MAP: MAP(i->t): 0.7433, MAP(t->i): 0.7695
+...epoch: 226, loss: 42230452.000, lr: 0.017393
+...epoch: 226, valid MAP: MAP(i->t): 0.7426, MAP(t->i): 0.7712
+...epoch: 227, loss: 42200980.000, lr: 0.017330
+...epoch: 227, valid MAP: MAP(i->t): 0.7402, MAP(t->i): 0.7733
+...epoch: 228, loss: 42138656.000, lr: 0.017266
+...epoch: 228, valid MAP: MAP(i->t): 0.7420, MAP(t->i): 0.7728
+...epoch: 229, loss: 42080120.000, lr: 0.017203
+...epoch: 229, valid MAP: MAP(i->t): 0.7436, MAP(t->i): 0.7717
+...epoch: 230, loss: 42023436.000, lr: 0.017140
+...epoch: 230, valid MAP: MAP(i->t): 0.7430, MAP(t->i): 0.7698
+...epoch: 231, loss: 41959900.000, lr: 0.017077
+...epoch: 231, valid MAP: MAP(i->t): 0.7423, MAP(t->i): 0.7729
+...epoch: 232, loss: 42006312.000, lr: 0.017014
+...epoch: 232, valid MAP: MAP(i->t): 0.7424, MAP(t->i): 0.7724
+...epoch: 233, loss: 41923480.000, lr: 0.016950
+...epoch: 233, valid MAP: MAP(i->t): 0.7421, MAP(t->i): 0.7737
+...epoch: 234, loss: 41866392.000, lr: 0.016887
+...epoch: 234, valid MAP: MAP(i->t): 0.7432, MAP(t->i): 0.7724
+...epoch: 235, loss: 41799800.000, lr: 0.016824
+...epoch: 235, valid MAP: MAP(i->t): 0.7430, MAP(t->i): 0.7735
+...epoch: 236, loss: 41757464.000, lr: 0.016761
+...epoch: 236, valid MAP: MAP(i->t): 0.7432, MAP(t->i): 0.7736
+...epoch: 237, loss: 41691920.000, lr: 0.016697
+...epoch: 237, valid MAP: MAP(i->t): 0.7433, MAP(t->i): 0.7734
+...epoch: 238, loss: 41635776.000, lr: 0.016634
+...epoch: 238, valid MAP: MAP(i->t): 0.7435, MAP(t->i): 0.7721
+...epoch: 239, loss: 41617856.000, lr: 0.016571
+...epoch: 239, valid MAP: MAP(i->t): 0.7434, MAP(t->i): 0.7734
+...epoch: 240, loss: 41646200.000, lr: 0.016508
+...epoch: 240, valid MAP: MAP(i->t): 0.7438, MAP(t->i): 0.7722
+...epoch: 241, loss: 41572116.000, lr: 0.016444
+...epoch: 241, valid MAP: MAP(i->t): 0.7432, MAP(t->i): 0.7734
+...epoch: 242, loss: 41512208.000, lr: 0.016381
+...epoch: 242, valid MAP: MAP(i->t): 0.7446, MAP(t->i): 0.7716
+...epoch: 243, loss: 41439780.000, lr: 0.016318
+...epoch: 243, valid MAP: MAP(i->t): 0.7437, MAP(t->i): 0.7727
+...epoch: 244, loss: 41383696.000, lr: 0.016255
+...epoch: 244, valid MAP: MAP(i->t): 0.7436, MAP(t->i): 0.7721
+...epoch: 245, loss: 41310020.000, lr: 0.016191
+...epoch: 245, valid MAP: MAP(i->t): 0.7434, MAP(t->i): 0.7729
+...epoch: 246, loss: 41271260.000, lr: 0.016128
+...epoch: 246, valid MAP: MAP(i->t): 0.7442, MAP(t->i): 0.7708
+...epoch: 247, loss: 41221496.000, lr: 0.016065
+...epoch: 247, valid MAP: MAP(i->t): 0.7442, MAP(t->i): 0.7726
+...epoch: 248, loss: 41168220.000, lr: 0.016002
+...epoch: 248, valid MAP: MAP(i->t): 0.7436, MAP(t->i): 0.7727
+...epoch: 249, loss: 41098968.000, lr: 0.015938
+...epoch: 249, valid MAP: MAP(i->t): 0.7439, MAP(t->i): 0.7722
+...epoch: 250, loss: 41072912.000, lr: 0.015875
+...epoch: 250, valid MAP: MAP(i->t): 0.7439, MAP(t->i): 0.7741
+...epoch: 251, loss: 41027328.000, lr: 0.015812
+...epoch: 251, valid MAP: MAP(i->t): 0.7439, MAP(t->i): 0.7739
+...epoch: 252, loss: 40978772.000, lr: 0.015749
+...epoch: 252, valid MAP: MAP(i->t): 0.7438, MAP(t->i): 0.7739
+...epoch: 253, loss: 40961764.000, lr: 0.015685
+...epoch: 253, valid MAP: MAP(i->t): 0.7440, MAP(t->i): 0.7729
+...epoch: 254, loss: 40928976.000, lr: 0.015622
+...epoch: 254, valid MAP: MAP(i->t): 0.7449, MAP(t->i): 0.7730
+...epoch: 255, loss: 40879956.000, lr: 0.015559
+...epoch: 255, valid MAP: MAP(i->t): 0.7434, MAP(t->i): 0.7740
+...epoch: 256, loss: 40839268.000, lr: 0.015496
+...epoch: 256, valid MAP: MAP(i->t): 0.7438, MAP(t->i): 0.7742
+...epoch: 257, loss: 40787588.000, lr: 0.015432
+...epoch: 257, valid MAP: MAP(i->t): 0.7443, MAP(t->i): 0.7735
+...epoch: 258, loss: 40745068.000, lr: 0.015369
+...epoch: 258, valid MAP: MAP(i->t): 0.7442, MAP(t->i): 0.7740
+...epoch: 259, loss: 40700456.000, lr: 0.015306
+...epoch: 259, valid MAP: MAP(i->t): 0.7439, MAP(t->i): 0.7733
+...epoch: 260, loss: 40677988.000, lr: 0.015243
+...epoch: 260, valid MAP: MAP(i->t): 0.7450, MAP(t->i): 0.7736
+...epoch: 261, loss: 40623608.000, lr: 0.015179
+...epoch: 261, valid MAP: MAP(i->t): 0.7436, MAP(t->i): 0.7739
+...epoch: 262, loss: 40570312.000, lr: 0.015116
+...epoch: 262, valid MAP: MAP(i->t): 0.7450, MAP(t->i): 0.7734
+...epoch: 263, loss: 40510852.000, lr: 0.015053
+...epoch: 263, valid MAP: MAP(i->t): 0.7446, MAP(t->i): 0.7729
+...epoch: 264, loss: 40496396.000, lr: 0.014990
+...epoch: 264, valid MAP: MAP(i->t): 0.7451, MAP(t->i): 0.7730
+...epoch: 265, loss: 40479788.000, lr: 0.014926
+...epoch: 265, valid MAP: MAP(i->t): 0.7444, MAP(t->i): 0.7751
+...epoch: 266, loss: 40428840.000, lr: 0.014863
+...epoch: 266, valid MAP: MAP(i->t): 0.7443, MAP(t->i): 0.7744
+...epoch: 267, loss: 40378280.000, lr: 0.014800
+...epoch: 267, valid MAP: MAP(i->t): 0.7449, MAP(t->i): 0.7734
+...epoch: 268, loss: 40357768.000, lr: 0.014737
+...epoch: 268, valid MAP: MAP(i->t): 0.7440, MAP(t->i): 0.7745
+...epoch: 269, loss: 40319992.000, lr: 0.014674
+...epoch: 269, valid MAP: MAP(i->t): 0.7442, MAP(t->i): 0.7751
+...epoch: 270, loss: 40272576.000, lr: 0.014610
+...epoch: 270, valid MAP: MAP(i->t): 0.7450, MAP(t->i): 0.7746
+...epoch: 271, loss: 40227352.000, lr: 0.014547
+...epoch: 271, valid MAP: MAP(i->t): 0.7449, MAP(t->i): 0.7739
+...epoch: 272, loss: 40215916.000, lr: 0.014484
+...epoch: 272, valid MAP: MAP(i->t): 0.7443, MAP(t->i): 0.7745
+...epoch: 273, loss: 40149860.000, lr: 0.014421
+...epoch: 273, valid MAP: MAP(i->t): 0.7437, MAP(t->i): 0.7738
+...epoch: 274, loss: 40105228.000, lr: 0.014357
+...epoch: 274, valid MAP: MAP(i->t): 0.7446, MAP(t->i): 0.7745
+...epoch: 275, loss: 40059712.000, lr: 0.014294
+...epoch: 275, valid MAP: MAP(i->t): 0.7453, MAP(t->i): 0.7744
+...epoch: 276, loss: 40042112.000, lr: 0.014231
+...epoch: 276, valid MAP: MAP(i->t): 0.7453, MAP(t->i): 0.7736
+...epoch: 277, loss: 40018100.000, lr: 0.014168
+...epoch: 277, valid MAP: MAP(i->t): 0.7448, MAP(t->i): 0.7752
+...epoch: 278, loss: 39968044.000, lr: 0.014104
+...epoch: 278, valid MAP: MAP(i->t): 0.7443, MAP(t->i): 0.7748
+...epoch: 279, loss: 39948052.000, lr: 0.014041
+...epoch: 279, valid MAP: MAP(i->t): 0.7452, MAP(t->i): 0.7766
+...epoch: 280, loss: 39926140.000, lr: 0.013978
+...epoch: 280, valid MAP: MAP(i->t): 0.7452, MAP(t->i): 0.7748
+...epoch: 281, loss: 39892844.000, lr: 0.013915
+...epoch: 281, valid MAP: MAP(i->t): 0.7457, MAP(t->i): 0.7751
+...epoch: 282, loss: 39849952.000, lr: 0.013851
+...epoch: 282, valid MAP: MAP(i->t): 0.7461, MAP(t->i): 0.7746
+...epoch: 283, loss: 39825708.000, lr: 0.013788
+...epoch: 283, valid MAP: MAP(i->t): 0.7448, MAP(t->i): 0.7768
+...epoch: 284, loss: 39801488.000, lr: 0.013725
+...epoch: 284, valid MAP: MAP(i->t): 0.7445, MAP(t->i): 0.7761
+...epoch: 285, loss: 39798504.000, lr: 0.013662
+...epoch: 285, valid MAP: MAP(i->t): 0.7457, MAP(t->i): 0.7750
+...epoch: 286, loss: 39771828.000, lr: 0.013598
+...epoch: 286, valid MAP: MAP(i->t): 0.7453, MAP(t->i): 0.7761
+...epoch: 287, loss: 39737156.000, lr: 0.013535
+...epoch: 287, valid MAP: MAP(i->t): 0.7462, MAP(t->i): 0.7746
+...epoch: 288, loss: 39694988.000, lr: 0.013472
+...epoch: 288, valid MAP: MAP(i->t): 0.7452, MAP(t->i): 0.7754
+...epoch: 289, loss: 39630164.000, lr: 0.013409
+...epoch: 289, valid MAP: MAP(i->t): 0.7458, MAP(t->i): 0.7760
+...epoch: 290, loss: 39617628.000, lr: 0.013345
+...epoch: 290, valid MAP: MAP(i->t): 0.7463, MAP(t->i): 0.7750
+...epoch: 291, loss: 39585884.000, lr: 0.013282
+...epoch: 291, valid MAP: MAP(i->t): 0.7455, MAP(t->i): 0.7752
+...epoch: 292, loss: 39557592.000, lr: 0.013219
+...epoch: 292, valid MAP: MAP(i->t): 0.7456, MAP(t->i): 0.7750
+...epoch: 293, loss: 39535468.000, lr: 0.013156
+...epoch: 293, valid MAP: MAP(i->t): 0.7463, MAP(t->i): 0.7754
+...epoch: 294, loss: 39501676.000, lr: 0.013092
+...epoch: 294, valid MAP: MAP(i->t): 0.7462, MAP(t->i): 0.7762
+...epoch: 295, loss: 39469252.000, lr: 0.013029
+...epoch: 295, valid MAP: MAP(i->t): 0.7468, MAP(t->i): 0.7734
+...epoch: 296, loss: 39429888.000, lr: 0.012966
+...epoch: 296, valid MAP: MAP(i->t): 0.7457, MAP(t->i): 0.7751
+...epoch: 297, loss: 39404832.000, lr: 0.012903
+...epoch: 297, valid MAP: MAP(i->t): 0.7464, MAP(t->i): 0.7750
+...epoch: 298, loss: 39370716.000, lr: 0.012839
+...epoch: 298, valid MAP: MAP(i->t): 0.7467, MAP(t->i): 0.7747
+...epoch: 299, loss: 39350632.000, lr: 0.012776
+...epoch: 299, valid MAP: MAP(i->t): 0.7470, MAP(t->i): 0.7750
+...epoch: 300, loss: 39320096.000, lr: 0.012713
+...epoch: 300, valid MAP: MAP(i->t): 0.7456, MAP(t->i): 0.7754
+...epoch: 301, loss: 39293156.000, lr: 0.012650
+...epoch: 301, valid MAP: MAP(i->t): 0.7467, MAP(t->i): 0.7744
+...epoch: 302, loss: 39275632.000, lr: 0.012586
+...epoch: 302, valid MAP: MAP(i->t): 0.7462, MAP(t->i): 0.7759
+...epoch: 303, loss: 39231188.000, lr: 0.012523
+...epoch: 303, valid MAP: MAP(i->t): 0.7462, MAP(t->i): 0.7752
+...epoch: 304, loss: 39210748.000, lr: 0.012460
+...epoch: 304, valid MAP: MAP(i->t): 0.7458, MAP(t->i): 0.7754
+...epoch: 305, loss: 39198512.000, lr: 0.012397
+...epoch: 305, valid MAP: MAP(i->t): 0.7463, MAP(t->i): 0.7752
+...epoch: 306, loss: 39182296.000, lr: 0.012333
+...epoch: 306, valid MAP: MAP(i->t): 0.7456, MAP(t->i): 0.7762
+...epoch: 307, loss: 39141280.000, lr: 0.012270
+...epoch: 307, valid MAP: MAP(i->t): 0.7470, MAP(t->i): 0.7757
+...epoch: 308, loss: 39093844.000, lr: 0.012207
+...epoch: 308, valid MAP: MAP(i->t): 0.7463, MAP(t->i): 0.7765
+...epoch: 309, loss: 39082484.000, lr: 0.012144
+...epoch: 309, valid MAP: MAP(i->t): 0.7462, MAP(t->i): 0.7765
+...epoch: 310, loss: 39041908.000, lr: 0.012081
+...epoch: 310, valid MAP: MAP(i->t): 0.7462, MAP(t->i): 0.7761
+...epoch: 311, loss: 39037108.000, lr: 0.012017
+...epoch: 311, valid MAP: MAP(i->t): 0.7468, MAP(t->i): 0.7756
+...epoch: 312, loss: 39005680.000, lr: 0.011954
+...epoch: 312, valid MAP: MAP(i->t): 0.7462, MAP(t->i): 0.7763
+...epoch: 313, loss: 38975340.000, lr: 0.011891
+...epoch: 313, valid MAP: MAP(i->t): 0.7465, MAP(t->i): 0.7770
+...epoch: 314, loss: 38967092.000, lr: 0.011828
+...epoch: 314, valid MAP: MAP(i->t): 0.7466, MAP(t->i): 0.7763
+...epoch: 315, loss: 38949796.000, lr: 0.011764
+...epoch: 315, valid MAP: MAP(i->t): 0.7476, MAP(t->i): 0.7750
+...epoch: 316, loss: 38894288.000, lr: 0.011701
+...epoch: 316, valid MAP: MAP(i->t): 0.7461, MAP(t->i): 0.7767
+...epoch: 317, loss: 38883968.000, lr: 0.011638
+...epoch: 317, valid MAP: MAP(i->t): 0.7460, MAP(t->i): 0.7762
+...epoch: 318, loss: 38854772.000, lr: 0.011575
+...epoch: 318, valid MAP: MAP(i->t): 0.7467, MAP(t->i): 0.7763
+...epoch: 319, loss: 38838876.000, lr: 0.011511
+...epoch: 319, valid MAP: MAP(i->t): 0.7468, MAP(t->i): 0.7765
+...epoch: 320, loss: 38819844.000, lr: 0.011448
+...epoch: 320, valid MAP: MAP(i->t): 0.7471, MAP(t->i): 0.7765
+...epoch: 321, loss: 38794736.000, lr: 0.011385
+...epoch: 321, valid MAP: MAP(i->t): 0.7469, MAP(t->i): 0.7763
+...epoch: 322, loss: 38759348.000, lr: 0.011322
+...epoch: 322, valid MAP: MAP(i->t): 0.7464, MAP(t->i): 0.7761
+...epoch: 323, loss: 38748756.000, lr: 0.011258
+...epoch: 323, valid MAP: MAP(i->t): 0.7468, MAP(t->i): 0.7756
+...epoch: 324, loss: 38718044.000, lr: 0.011195
+...epoch: 324, valid MAP: MAP(i->t): 0.7469, MAP(t->i): 0.7764
+...epoch: 325, loss: 38679152.000, lr: 0.011132
+...epoch: 325, valid MAP: MAP(i->t): 0.7470, MAP(t->i): 0.7765
+...epoch: 326, loss: 38663200.000, lr: 0.011069
+...epoch: 326, valid MAP: MAP(i->t): 0.7471, MAP(t->i): 0.7769
+...epoch: 327, loss: 38637712.000, lr: 0.011005
+...epoch: 327, valid MAP: MAP(i->t): 0.7472, MAP(t->i): 0.7765
+...epoch: 328, loss: 38633844.000, lr: 0.010942
+...epoch: 328, valid MAP: MAP(i->t): 0.7475, MAP(t->i): 0.7768
+...epoch: 329, loss: 38591108.000, lr: 0.010879
+...epoch: 329, valid MAP: MAP(i->t): 0.7473, MAP(t->i): 0.7767
+...epoch: 330, loss: 38581708.000, lr: 0.010816
+...epoch: 330, valid MAP: MAP(i->t): 0.7469, MAP(t->i): 0.7765
+...epoch: 331, loss: 38560500.000, lr: 0.010752
+...epoch: 331, valid MAP: MAP(i->t): 0.7479, MAP(t->i): 0.7759
+...epoch: 332, loss: 38531536.000, lr: 0.010689
+...epoch: 332, valid MAP: MAP(i->t): 0.7461, MAP(t->i): 0.7764
+...epoch: 333, loss: 38511924.000, lr: 0.010626
+...epoch: 333, valid MAP: MAP(i->t): 0.7470, MAP(t->i): 0.7767
+...epoch: 334, loss: 38482012.000, lr: 0.010563
+...epoch: 334, valid MAP: MAP(i->t): 0.7474, MAP(t->i): 0.7759
+...epoch: 335, loss: 38463236.000, lr: 0.010499
+...epoch: 335, valid MAP: MAP(i->t): 0.7466, MAP(t->i): 0.7764
+...epoch: 336, loss: 38445648.000, lr: 0.010436
+...epoch: 336, valid MAP: MAP(i->t): 0.7473, MAP(t->i): 0.7767
+...epoch: 337, loss: 38423980.000, lr: 0.010373
+...epoch: 337, valid MAP: MAP(i->t): 0.7466, MAP(t->i): 0.7774
+...epoch: 338, loss: 38400328.000, lr: 0.010310
+...epoch: 338, valid MAP: MAP(i->t): 0.7478, MAP(t->i): 0.7757
+...epoch: 339, loss: 38381684.000, lr: 0.010246
+...epoch: 339, valid MAP: MAP(i->t): 0.7470, MAP(t->i): 0.7769
+...epoch: 340, loss: 38357764.000, lr: 0.010183
+...epoch: 340, valid MAP: MAP(i->t): 0.7469, MAP(t->i): 0.7765
+...epoch: 341, loss: 38335648.000, lr: 0.010120
+...epoch: 341, valid MAP: MAP(i->t): 0.7473, MAP(t->i): 0.7767
+...epoch: 342, loss: 38329116.000, lr: 0.010057
+...epoch: 342, valid MAP: MAP(i->t): 0.7479, MAP(t->i): 0.7757
+...epoch: 343, loss: 38306684.000, lr: 0.009993
+...epoch: 343, valid MAP: MAP(i->t): 0.7475, MAP(t->i): 0.7765
+...epoch: 344, loss: 38287828.000, lr: 0.009930
+...epoch: 344, valid MAP: MAP(i->t): 0.7473, MAP(t->i): 0.7768
+...epoch: 345, loss: 38261608.000, lr: 0.009867
+...epoch: 345, valid MAP: MAP(i->t): 0.7469, MAP(t->i): 0.7766
+...epoch: 346, loss: 38243072.000, lr: 0.009804
+...epoch: 346, valid MAP: MAP(i->t): 0.7475, MAP(t->i): 0.7767
+...epoch: 347, loss: 38218772.000, lr: 0.009741
+...epoch: 347, valid MAP: MAP(i->t): 0.7476, MAP(t->i): 0.7757
+...epoch: 348, loss: 38210728.000, lr: 0.009677
+...epoch: 348, valid MAP: MAP(i->t): 0.7476, MAP(t->i): 0.7760
+...epoch: 349, loss: 38181276.000, lr: 0.009614
+...epoch: 349, valid MAP: MAP(i->t): 0.7472, MAP(t->i): 0.7767
+...epoch: 350, loss: 38150580.000, lr: 0.009551
+...epoch: 350, valid MAP: MAP(i->t): 0.7478, MAP(t->i): 0.7759
+...epoch: 351, loss: 38134128.000, lr: 0.009488
+...epoch: 351, valid MAP: MAP(i->t): 0.7473, MAP(t->i): 0.7767
+...epoch: 352, loss: 38112848.000, lr: 0.009424
+...epoch: 352, valid MAP: MAP(i->t): 0.7476, MAP(t->i): 0.7763
+...epoch: 353, loss: 38108656.000, lr: 0.009361
+...epoch: 353, valid MAP: MAP(i->t): 0.7478, MAP(t->i): 0.7752
+...epoch: 354, loss: 38087444.000, lr: 0.009298
+...epoch: 354, valid MAP: MAP(i->t): 0.7477, MAP(t->i): 0.7764
+...epoch: 355, loss: 38056584.000, lr: 0.009235
+...epoch: 355, valid MAP: MAP(i->t): 0.7473, MAP(t->i): 0.7764
+...epoch: 356, loss: 38053324.000, lr: 0.009171
+...epoch: 356, valid MAP: MAP(i->t): 0.7474, MAP(t->i): 0.7766
+...epoch: 357, loss: 38031384.000, lr: 0.009108
+...epoch: 357, valid MAP: MAP(i->t): 0.7472, MAP(t->i): 0.7767
+...epoch: 358, loss: 38002168.000, lr: 0.009045
+...epoch: 358, valid MAP: MAP(i->t): 0.7470, MAP(t->i): 0.7763
+...epoch: 359, loss: 37997684.000, lr: 0.008982
+...epoch: 359, valid MAP: MAP(i->t): 0.7476, MAP(t->i): 0.7766
+...epoch: 360, loss: 37985820.000, lr: 0.008918
+...epoch: 360, valid MAP: MAP(i->t): 0.7475, MAP(t->i): 0.7770
+...epoch: 361, loss: 37959828.000, lr: 0.008855
+...epoch: 361, valid MAP: MAP(i->t): 0.7470, MAP(t->i): 0.7769
+...epoch: 362, loss: 37946520.000, lr: 0.008792
+...epoch: 362, valid MAP: MAP(i->t): 0.7472, MAP(t->i): 0.7762
+...epoch: 363, loss: 37929764.000, lr: 0.008729
+...epoch: 363, valid MAP: MAP(i->t): 0.7473, MAP(t->i): 0.7766
+...epoch: 364, loss: 37919828.000, lr: 0.008665
+...epoch: 364, valid MAP: MAP(i->t): 0.7471, MAP(t->i): 0.7761
+...epoch: 365, loss: 37893192.000, lr: 0.008602
+...epoch: 365, valid MAP: MAP(i->t): 0.7476, MAP(t->i): 0.7760
+...epoch: 366, loss: 37867112.000, lr: 0.008539
+...epoch: 366, valid MAP: MAP(i->t): 0.7474, MAP(t->i): 0.7763
+...epoch: 367, loss: 37848356.000, lr: 0.008476
+...epoch: 367, valid MAP: MAP(i->t): 0.7477, MAP(t->i): 0.7759
+...epoch: 368, loss: 37826024.000, lr: 0.008412
+...epoch: 368, valid MAP: MAP(i->t): 0.7475, MAP(t->i): 0.7760
+...epoch: 369, loss: 37834344.000, lr: 0.008349
+...epoch: 369, valid MAP: MAP(i->t): 0.7472, MAP(t->i): 0.7764
+...epoch: 370, loss: 37807324.000, lr: 0.008286
+...epoch: 370, valid MAP: MAP(i->t): 0.7474, MAP(t->i): 0.7767
+...epoch: 371, loss: 37785084.000, lr: 0.008223
+...epoch: 371, valid MAP: MAP(i->t): 0.7472, MAP(t->i): 0.7772
+...epoch: 372, loss: 37771804.000, lr: 0.008159
+...epoch: 372, valid MAP: MAP(i->t): 0.7479, MAP(t->i): 0.7767
+...epoch: 373, loss: 37752920.000, lr: 0.008096
+...epoch: 373, valid MAP: MAP(i->t): 0.7474, MAP(t->i): 0.7764
+...epoch: 374, loss: 37737008.000, lr: 0.008033
+...epoch: 374, valid MAP: MAP(i->t): 0.7481, MAP(t->i): 0.7759
+...epoch: 375, loss: 37723268.000, lr: 0.007970
+...epoch: 375, valid MAP: MAP(i->t): 0.7477, MAP(t->i): 0.7762
+...epoch: 376, loss: 37711400.000, lr: 0.007906
+...epoch: 376, valid MAP: MAP(i->t): 0.7477, MAP(t->i): 0.7756
+...epoch: 377, loss: 37693564.000, lr: 0.007843
+...epoch: 377, valid MAP: MAP(i->t): 0.7475, MAP(t->i): 0.7763
+...epoch: 378, loss: 37680212.000, lr: 0.007780
+...epoch: 378, valid MAP: MAP(i->t): 0.7478, MAP(t->i): 0.7770
+...epoch: 379, loss: 37671188.000, lr: 0.007717
+...epoch: 379, valid MAP: MAP(i->t): 0.7481, MAP(t->i): 0.7756
+...epoch: 380, loss: 37654732.000, lr: 0.007653
+...epoch: 380, valid MAP: MAP(i->t): 0.7477, MAP(t->i): 0.7763
+...epoch: 381, loss: 37643764.000, lr: 0.007590
+...epoch: 381, valid MAP: MAP(i->t): 0.7475, MAP(t->i): 0.7765
+...epoch: 382, loss: 37623120.000, lr: 0.007527
+...epoch: 382, valid MAP: MAP(i->t): 0.7473, MAP(t->i): 0.7764
+...epoch: 383, loss: 37608112.000, lr: 0.007464
+...epoch: 383, valid MAP: MAP(i->t): 0.7479, MAP(t->i): 0.7764
+...epoch: 384, loss: 37596764.000, lr: 0.007400
+...epoch: 384, valid MAP: MAP(i->t): 0.7481, MAP(t->i): 0.7757
+...epoch: 385, loss: 37572256.000, lr: 0.007337
+...epoch: 385, valid MAP: MAP(i->t): 0.7478, MAP(t->i): 0.7759
+...epoch: 386, loss: 37553388.000, lr: 0.007274
+...epoch: 386, valid MAP: MAP(i->t): 0.7473, MAP(t->i): 0.7767
+...epoch: 387, loss: 37543424.000, lr: 0.007211
+...epoch: 387, valid MAP: MAP(i->t): 0.7480, MAP(t->i): 0.7761
+...epoch: 388, loss: 37542164.000, lr: 0.007148
+...epoch: 388, valid MAP: MAP(i->t): 0.7475, MAP(t->i): 0.7766
+...epoch: 389, loss: 37515424.000, lr: 0.007084
+...epoch: 389, valid MAP: MAP(i->t): 0.7480, MAP(t->i): 0.7759
+...epoch: 390, loss: 37504300.000, lr: 0.007021
+...epoch: 390, valid MAP: MAP(i->t): 0.7476, MAP(t->i): 0.7765
+...epoch: 391, loss: 37490312.000, lr: 0.006958
+...epoch: 391, valid MAP: MAP(i->t): 0.7478, MAP(t->i): 0.7763
+...epoch: 392, loss: 37479756.000, lr: 0.006895
+...epoch: 392, valid MAP: MAP(i->t): 0.7479, MAP(t->i): 0.7762
+...epoch: 393, loss: 37464820.000, lr: 0.006831
+...epoch: 393, valid MAP: MAP(i->t): 0.7480, MAP(t->i): 0.7760
+...epoch: 394, loss: 37455440.000, lr: 0.006768
+...epoch: 394, valid MAP: MAP(i->t): 0.7480, MAP(t->i): 0.7754
+...epoch: 395, loss: 37448800.000, lr: 0.006705
+...epoch: 395, valid MAP: MAP(i->t): 0.7483, MAP(t->i): 0.7761
+...epoch: 396, loss: 37430484.000, lr: 0.006642
+...epoch: 396, valid MAP: MAP(i->t): 0.7479, MAP(t->i): 0.7764
+...epoch: 397, loss: 37423692.000, lr: 0.006578
+...epoch: 397, valid MAP: MAP(i->t): 0.7477, MAP(t->i): 0.7766
+...epoch: 398, loss: 37401864.000, lr: 0.006515
+...epoch: 398, valid MAP: MAP(i->t): 0.7481, MAP(t->i): 0.7762
+...epoch: 399, loss: 37390716.000, lr: 0.006452
+...epoch: 399, valid MAP: MAP(i->t): 0.7481, MAP(t->i): 0.7764
+...epoch: 400, loss: 37370964.000, lr: 0.006389
+...epoch: 400, valid MAP: MAP(i->t): 0.7483, MAP(t->i): 0.7760
+...epoch: 401, loss: 37369336.000, lr: 0.006325
+...epoch: 401, valid MAP: MAP(i->t): 0.7479, MAP(t->i): 0.7764
+...epoch: 402, loss: 37348044.000, lr: 0.006262
+...epoch: 402, valid MAP: MAP(i->t): 0.7482, MAP(t->i): 0.7761
+...epoch: 403, loss: 37335788.000, lr: 0.006199
+...epoch: 403, valid MAP: MAP(i->t): 0.7480, MAP(t->i): 0.7761
+...epoch: 404, loss: 37322708.000, lr: 0.006136
+...epoch: 404, valid MAP: MAP(i->t): 0.7482, MAP(t->i): 0.7766
+...epoch: 405, loss: 37319096.000, lr: 0.006072
+...epoch: 405, valid MAP: MAP(i->t): 0.7479, MAP(t->i): 0.7765
+...epoch: 406, loss: 37314132.000, lr: 0.006009
+...epoch: 406, valid MAP: MAP(i->t): 0.7480, MAP(t->i): 0.7763
+...epoch: 407, loss: 37294368.000, lr: 0.005946
+...epoch: 407, valid MAP: MAP(i->t): 0.7484, MAP(t->i): 0.7760
+...epoch: 408, loss: 37276412.000, lr: 0.005883
+...epoch: 408, valid MAP: MAP(i->t): 0.7481, MAP(t->i): 0.7761
+...epoch: 409, loss: 37263048.000, lr: 0.005819
+...epoch: 409, valid MAP: MAP(i->t): 0.7478, MAP(t->i): 0.7762
+...epoch: 410, loss: 37262344.000, lr: 0.005756
+...epoch: 410, valid MAP: MAP(i->t): 0.7480, MAP(t->i): 0.7761
+...epoch: 411, loss: 37249832.000, lr: 0.005693
+...epoch: 411, valid MAP: MAP(i->t): 0.7486, MAP(t->i): 0.7759
+...epoch: 412, loss: 37244380.000, lr: 0.005630
+...epoch: 412, valid MAP: MAP(i->t): 0.7484, MAP(t->i): 0.7761
+...epoch: 413, loss: 37233860.000, lr: 0.005566
+...epoch: 413, valid MAP: MAP(i->t): 0.7482, MAP(t->i): 0.7764
+...epoch: 414, loss: 37215864.000, lr: 0.005503
+...epoch: 414, valid MAP: MAP(i->t): 0.7482, MAP(t->i): 0.7761
+...epoch: 415, loss: 37204980.000, lr: 0.005440
+...epoch: 415, valid MAP: MAP(i->t): 0.7481, MAP(t->i): 0.7765
+...epoch: 416, loss: 37198668.000, lr: 0.005377
+...epoch: 416, valid MAP: MAP(i->t): 0.7487, MAP(t->i): 0.7758
+...epoch: 417, loss: 37186180.000, lr: 0.005313
+...epoch: 417, valid MAP: MAP(i->t): 0.7480, MAP(t->i): 0.7765
+...epoch: 418, loss: 37174676.000, lr: 0.005250
+...epoch: 418, valid MAP: MAP(i->t): 0.7487, MAP(t->i): 0.7755
+...epoch: 419, loss: 37162608.000, lr: 0.005187
+...epoch: 419, valid MAP: MAP(i->t): 0.7483, MAP(t->i): 0.7763
+...epoch: 420, loss: 37154832.000, lr: 0.005124
+...epoch: 420, valid MAP: MAP(i->t): 0.7485, MAP(t->i): 0.7766
+...epoch: 421, loss: 37145072.000, lr: 0.005060
+...epoch: 421, valid MAP: MAP(i->t): 0.7487, MAP(t->i): 0.7762
+...epoch: 422, loss: 37135140.000, lr: 0.004997
+...epoch: 422, valid MAP: MAP(i->t): 0.7481, MAP(t->i): 0.7766
+...epoch: 423, loss: 37130660.000, lr: 0.004934
+...epoch: 423, valid MAP: MAP(i->t): 0.7486, MAP(t->i): 0.7760
+...epoch: 424, loss: 37116796.000, lr: 0.004871
+...epoch: 424, valid MAP: MAP(i->t): 0.7486, MAP(t->i): 0.7765
+...epoch: 425, loss: 37106620.000, lr: 0.004808
+...epoch: 425, valid MAP: MAP(i->t): 0.7487, MAP(t->i): 0.7766
+...epoch: 426, loss: 37097824.000, lr: 0.004744
+...epoch: 426, valid MAP: MAP(i->t): 0.7487, MAP(t->i): 0.7762
+...epoch: 427, loss: 37094456.000, lr: 0.004681
+...epoch: 427, valid MAP: MAP(i->t): 0.7485, MAP(t->i): 0.7768
+...epoch: 428, loss: 37081408.000, lr: 0.004618
+...epoch: 428, valid MAP: MAP(i->t): 0.7484, MAP(t->i): 0.7766
+...epoch: 429, loss: 37078496.000, lr: 0.004555
+...epoch: 429, valid MAP: MAP(i->t): 0.7485, MAP(t->i): 0.7766
+...epoch: 430, loss: 37065804.000, lr: 0.004491
+...epoch: 430, valid MAP: MAP(i->t): 0.7485, MAP(t->i): 0.7764
+...epoch: 431, loss: 37060932.000, lr: 0.004428
+...epoch: 431, valid MAP: MAP(i->t): 0.7486, MAP(t->i): 0.7765
+...epoch: 432, loss: 37051420.000, lr: 0.004365
+...epoch: 432, valid MAP: MAP(i->t): 0.7485, MAP(t->i): 0.7766
+...epoch: 433, loss: 37038716.000, lr: 0.004302
+...epoch: 433, valid MAP: MAP(i->t): 0.7487, MAP(t->i): 0.7764
+...epoch: 434, loss: 37029708.000, lr: 0.004238
+...epoch: 434, valid MAP: MAP(i->t): 0.7487, MAP(t->i): 0.7765
+...epoch: 435, loss: 37019016.000, lr: 0.004175
+...epoch: 435, valid MAP: MAP(i->t): 0.7484, MAP(t->i): 0.7765
+...epoch: 436, loss: 37011944.000, lr: 0.004112
+...epoch: 436, valid MAP: MAP(i->t): 0.7483, MAP(t->i): 0.7766
+...epoch: 437, loss: 37006224.000, lr: 0.004049
+...epoch: 437, valid MAP: MAP(i->t): 0.7485, MAP(t->i): 0.7760
+...epoch: 438, loss: 37001772.000, lr: 0.003985
+...epoch: 438, valid MAP: MAP(i->t): 0.7484, MAP(t->i): 0.7766
+...epoch: 439, loss: 36995652.000, lr: 0.003922
+...epoch: 439, valid MAP: MAP(i->t): 0.7485, MAP(t->i): 0.7764
+...epoch: 440, loss: 36981644.000, lr: 0.003859
+...epoch: 440, valid MAP: MAP(i->t): 0.7485, MAP(t->i): 0.7761
+...epoch: 441, loss: 36974412.000, lr: 0.003796
+...epoch: 441, valid MAP: MAP(i->t): 0.7486, MAP(t->i): 0.7763
+...epoch: 442, loss: 36967200.000, lr: 0.003732
+...epoch: 442, valid MAP: MAP(i->t): 0.7484, MAP(t->i): 0.7767
+...epoch: 443, loss: 36959804.000, lr: 0.003669
+...epoch: 443, valid MAP: MAP(i->t): 0.7487, MAP(t->i): 0.7761
+...epoch: 444, loss: 36957736.000, lr: 0.003606
+...epoch: 444, valid MAP: MAP(i->t): 0.7486, MAP(t->i): 0.7765
+...epoch: 445, loss: 36946504.000, lr: 0.003543
+...epoch: 445, valid MAP: MAP(i->t): 0.7484, MAP(t->i): 0.7764
+...epoch: 446, loss: 36942488.000, lr: 0.003479
+...epoch: 446, valid MAP: MAP(i->t): 0.7485, MAP(t->i): 0.7767
+...epoch: 447, loss: 36930300.000, lr: 0.003416
+...epoch: 447, valid MAP: MAP(i->t): 0.7485, MAP(t->i): 0.7765
+...epoch: 448, loss: 36926672.000, lr: 0.003353
+...epoch: 448, valid MAP: MAP(i->t): 0.7487, MAP(t->i): 0.7766
+...epoch: 449, loss: 36921928.000, lr: 0.003290
+...epoch: 449, valid MAP: MAP(i->t): 0.7482, MAP(t->i): 0.7767
+...epoch: 450, loss: 36917404.000, lr: 0.003226
+...epoch: 450, valid MAP: MAP(i->t): 0.7488, MAP(t->i): 0.7767
+...epoch: 451, loss: 36910472.000, lr: 0.003163
+...epoch: 451, valid MAP: MAP(i->t): 0.7489, MAP(t->i): 0.7761
+...epoch: 452, loss: 36908056.000, lr: 0.003100
+...epoch: 452, valid MAP: MAP(i->t): 0.7485, MAP(t->i): 0.7768
+...epoch: 453, loss: 36897896.000, lr: 0.003037
+...epoch: 453, valid MAP: MAP(i->t): 0.7484, MAP(t->i): 0.7772
+...epoch: 454, loss: 36890968.000, lr: 0.002973
+...epoch: 454, valid MAP: MAP(i->t): 0.7485, MAP(t->i): 0.7768
+...epoch: 455, loss: 36880564.000, lr: 0.002910
+...epoch: 455, valid MAP: MAP(i->t): 0.7488, MAP(t->i): 0.7766
+...epoch: 456, loss: 36880584.000, lr: 0.002847
+...epoch: 456, valid MAP: MAP(i->t): 0.7487, MAP(t->i): 0.7768
+...epoch: 457, loss: 36874908.000, lr: 0.002784
+...epoch: 457, valid MAP: MAP(i->t): 0.7487, MAP(t->i): 0.7765
+...epoch: 458, loss: 36873144.000, lr: 0.002720
+...epoch: 458, valid MAP: MAP(i->t): 0.7487, MAP(t->i): 0.7764
+...epoch: 459, loss: 36863680.000, lr: 0.002657
+...epoch: 459, valid MAP: MAP(i->t): 0.7487, MAP(t->i): 0.7768
+...epoch: 460, loss: 36859168.000, lr: 0.002594
+...epoch: 460, valid MAP: MAP(i->t): 0.7487, MAP(t->i): 0.7769
+...epoch: 461, loss: 36857508.000, lr: 0.002531
+...epoch: 461, valid MAP: MAP(i->t): 0.7488, MAP(t->i): 0.7769
+...epoch: 462, loss: 36848400.000, lr: 0.002467
+...epoch: 462, valid MAP: MAP(i->t): 0.7489, MAP(t->i): 0.7766
+...epoch: 463, loss: 36844712.000, lr: 0.002404
+...epoch: 463, valid MAP: MAP(i->t): 0.7488, MAP(t->i): 0.7769
+...epoch: 464, loss: 36840100.000, lr: 0.002341
+...epoch: 464, valid MAP: MAP(i->t): 0.7486, MAP(t->i): 0.7769
+...epoch: 465, loss: 36828900.000, lr: 0.002278
+...epoch: 465, valid MAP: MAP(i->t): 0.7487, MAP(t->i): 0.7769
+...epoch: 466, loss: 36823652.000, lr: 0.002215
+...epoch: 466, valid MAP: MAP(i->t): 0.7488, MAP(t->i): 0.7769
+...epoch: 467, loss: 36825968.000, lr: 0.002151
+...epoch: 467, valid MAP: MAP(i->t): 0.7487, MAP(t->i): 0.7771
+...epoch: 468, loss: 36821412.000, lr: 0.002088
+...epoch: 468, valid MAP: MAP(i->t): 0.7489, MAP(t->i): 0.7770
+...epoch: 469, loss: 36818120.000, lr: 0.002025
+...epoch: 469, valid MAP: MAP(i->t): 0.7488, MAP(t->i): 0.7770
+...epoch: 470, loss: 36813152.000, lr: 0.001962
+...epoch: 470, valid MAP: MAP(i->t): 0.7490, MAP(t->i): 0.7767
+...epoch: 471, loss: 36808652.000, lr: 0.001898
+...epoch: 471, valid MAP: MAP(i->t): 0.7489, MAP(t->i): 0.7768
+...epoch: 472, loss: 36804288.000, lr: 0.001835
+...epoch: 472, valid MAP: MAP(i->t): 0.7486, MAP(t->i): 0.7771
+...epoch: 473, loss: 36797720.000, lr: 0.001772
+...epoch: 473, valid MAP: MAP(i->t): 0.7487, MAP(t->i): 0.7769
+...epoch: 474, loss: 36796884.000, lr: 0.001709
+...epoch: 474, valid MAP: MAP(i->t): 0.7488, MAP(t->i): 0.7771
+...epoch: 475, loss: 36792972.000, lr: 0.001645
+...epoch: 475, valid MAP: MAP(i->t): 0.7487, MAP(t->i): 0.7769
+...epoch: 476, loss: 36792000.000, lr: 0.001582
+...epoch: 476, valid MAP: MAP(i->t): 0.7489, MAP(t->i): 0.7765
+...epoch: 477, loss: 36786824.000, lr: 0.001519
+...epoch: 477, valid MAP: MAP(i->t): 0.7486, MAP(t->i): 0.7769
+...epoch: 478, loss: 36786608.000, lr: 0.001456
+...epoch: 478, valid MAP: MAP(i->t): 0.7489, MAP(t->i): 0.7767
+...epoch: 479, loss: 36780048.000, lr: 0.001392
+...epoch: 479, valid MAP: MAP(i->t): 0.7489, MAP(t->i): 0.7765
+...epoch: 480, loss: 36780488.000, lr: 0.001329
+...epoch: 480, valid MAP: MAP(i->t): 0.7488, MAP(t->i): 0.7767
+...epoch: 481, loss: 36777508.000, lr: 0.001266
+...epoch: 481, valid MAP: MAP(i->t): 0.7489, MAP(t->i): 0.7767
+...epoch: 482, loss: 36775508.000, lr: 0.001203
+...epoch: 482, valid MAP: MAP(i->t): 0.7489, MAP(t->i): 0.7767
+...epoch: 483, loss: 36772344.000, lr: 0.001139
+...epoch: 483, valid MAP: MAP(i->t): 0.7487, MAP(t->i): 0.7767
+...epoch: 484, loss: 36770640.000, lr: 0.001076
+...epoch: 484, valid MAP: MAP(i->t): 0.7488, MAP(t->i): 0.7766
+...epoch: 485, loss: 36767784.000, lr: 0.001013
+...epoch: 485, valid MAP: MAP(i->t): 0.7490, MAP(t->i): 0.7766
+...epoch: 486, loss: 36763784.000, lr: 0.000950
+...epoch: 486, valid MAP: MAP(i->t): 0.7489, MAP(t->i): 0.7768
+...epoch: 487, loss: 36764236.000, lr: 0.000886
+...epoch: 487, valid MAP: MAP(i->t): 0.7487, MAP(t->i): 0.7768
+...epoch: 488, loss: 36761380.000, lr: 0.000823
+...epoch: 488, valid MAP: MAP(i->t): 0.7489, MAP(t->i): 0.7768
+...epoch: 489, loss: 36758268.000, lr: 0.000760
+...epoch: 489, valid MAP: MAP(i->t): 0.7487, MAP(t->i): 0.7768
+...epoch: 490, loss: 36757728.000, lr: 0.000697
+...epoch: 490, valid MAP: MAP(i->t): 0.7489, MAP(t->i): 0.7766
+...epoch: 491, loss: 36757644.000, lr: 0.000633
+...epoch: 491, valid MAP: MAP(i->t): 0.7489, MAP(t->i): 0.7766
+...epoch: 492, loss: 36755640.000, lr: 0.000570
+...epoch: 492, valid MAP: MAP(i->t): 0.7490, MAP(t->i): 0.7766
+...epoch: 493, loss: 36755984.000, lr: 0.000507
+...epoch: 493, valid MAP: MAP(i->t): 0.7488, MAP(t->i): 0.7766
+...epoch: 494, loss: 36754936.000, lr: 0.000444
+...epoch: 494, valid MAP: MAP(i->t): 0.7489, MAP(t->i): 0.7766
+...epoch: 495, loss: 36753844.000, lr: 0.000380
+...epoch: 495, valid MAP: MAP(i->t): 0.7490, MAP(t->i): 0.7766
+...epoch: 496, loss: 36753164.000, lr: 0.000317
+...epoch: 496, valid MAP: MAP(i->t): 0.7489, MAP(t->i): 0.7766
+...epoch: 497, loss: 36751056.000, lr: 0.000254
+...epoch: 497, valid MAP: MAP(i->t): 0.7488, MAP(t->i): 0.7767
+...epoch: 498, loss: 36750140.000, lr: 0.000191
+...epoch: 498, valid MAP: MAP(i->t): 0.7489, MAP(t->i): 0.7766
+...epoch: 499, loss: 36748412.000, lr: 0.000127
+...epoch: 499, valid MAP: MAP(i->t): 0.7488, MAP(t->i): 0.7767
+...epoch: 500, loss: 36748628.000, lr: 0.000064
+...epoch: 500, valid MAP: MAP(i->t): 0.7489, MAP(t->i): 0.7767
+...training procedure finish
+   max MAP: MAP(i->t): 0.7466, MAP(t->i): 0.7774

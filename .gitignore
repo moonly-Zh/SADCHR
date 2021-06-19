@@ -1,0 +1,6 @@
+# 屏蔽生成文件夹，但保留必要的说明
+/checkpoints/*
+/result/*
+/data/*
+/__pycache__/*
+/.vscode/*
